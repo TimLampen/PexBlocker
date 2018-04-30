@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PrisonCore:jar">
+    <output-path>$USER_HOME$/Desktop/Development Map/plugins</output-path>
+    <root id="archive" name="PrisonCore.jar">
+      <element id="module-output" name="PrisonCore" />
+    </root>
+  </artifact>
+</component>

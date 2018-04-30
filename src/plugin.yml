@@ -1,0 +1,7 @@
+main: me.timlampen.prisoncore.FakePlayers
+version: 1.0
+name: PrisonCore
+depend: [ProtocolLib]
+commands:
+  fp:
+  fakeplayers:
